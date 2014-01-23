@@ -180,22 +180,6 @@ public class BaseWindow {
 	public static long getTime(){
 		return System.nanoTime() / 1000000;
 	}
-	
-	/**
-	 * Updates the fps counter and if 1s has passed since 
-	 * the last update of the fps display it updates the fps
-	 * display in the title
-	 * @param timeOfCurrentFrame current time in miliseconds
-	 */
-//	private void updateFPS(long timeOfCurrentFrame) {
-//		if(timeOfCurrentFrame - timeOfLastFpsUpdate > 500){
-//			Display.setTitle(m_windowTitle + "  FPS: " + fps*2);
-//			fps=0;
-//			timeOfLastFpsUpdate = timeOfCurrentFrame;
-//		}
-//		fps++;
-//	}
-	
 
 	/**
 	 * Utils for creating native buffers

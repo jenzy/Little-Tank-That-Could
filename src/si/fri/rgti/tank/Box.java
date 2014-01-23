@@ -9,8 +9,6 @@ public class Box extends APhysicsModel {
 
 	public Box(Vector3f position, Vector3f size, DynamicsWorld physicsWorld,	ModelConstructionInfo info) {
 		super(position, size, physicsWorld, info);
-		
-		
 	}
 
 }

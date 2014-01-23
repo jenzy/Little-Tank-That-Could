@@ -10,7 +10,7 @@ public class BitmapText
 	float fw = 0.065f, dx = 0.010f, fh = 0.13f, ff = 0.65f;
 
 	public BitmapText() {
-		font = Texture.loadTextures2D(new String[] { "font.png" }, false);
+		font = Texture.loadTextures2D(new String[] { "models/font.png" }, false);
 	}
 
 	public float textWidth(String s, int size) {

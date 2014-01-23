@@ -6,6 +6,9 @@ import si.fri.rgti.tank.ModelLoader.Model;
 
 import com.bulletphysics.dynamics.DynamicsWorld;
 
+/**
+ * @author Jani
+ */
 public class AAArtilery extends APhysicsModelStatic implements IDestructable {
 
 	private AAArtilery(Vector3f position, Vector3f size, DynamicsWorld physicsWorld, ModelConstructionInfo info, String modelFile) {
