@@ -3,7 +3,7 @@ Little Tank That Could
 
 Little Tank That Could is a game I made for my Computer Graphics and Game Technology class.
 
-![Screenshot](http://bitbucket.org/zero-slo/little-tank-that-could/raw/master/screen.png)
+![Screenshot](screen.png)
 
 Little Tank That Could is an arcade game in which the player controls a tank. The player must find and destroy all enemies before the timer runs out.
 
@@ -21,4 +21,4 @@ Libraries used:
 Jani Bevk   
 Computer Graphics and Game Technology class 2013/14   
 Faculty of Computer and Information Science   
-University of Ljubljana   
+University of Ljubljana
