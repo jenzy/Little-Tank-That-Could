@@ -8,7 +8,7 @@ Little Tank That Could is a game I made for my Computer Graphics and Game Techno
 Little Tank That Could is an arcade game in which the player controls a tank. The player must find and destroy all enemies before the timer runs out.
 
 [Gameplay video](http://www.youtube.com/watch?v=b9BjdQYTVa8)    
-[Download](../../little-tank-that-could/downloads/Little%20Tank%20That%20Could%20v1.0.1%20Redist.zip)   
+[Download](../../downloads)   
 
 [Little Tank That Could 2: Try Harder](https://bitbucket.org/jenzy/little-tank-that-could-2-try-harder), a Unity version of the game     
 [Other games from the CG 2013/14 class](https://www.youtube.com/watch?v=NTk769wBu9Q)       
